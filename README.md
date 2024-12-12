@@ -29,6 +29,7 @@ The goal of the project is helping students to navigate the academic administrat
 - We have pre-selected areas to gather relevant material to facilitate navigation at the University of Cologne for Erasmus students. Six main areas have been chosen on which the posts will be based: 1. Housing in Cologne, 2. Administrative tasks, 3. Course registration, 4. Exam deadlines, 5. Work and project experiences, 6. Events. We decided to divide these six topics between us, with each of us responsible for three areas.
 - We wrote the Universität zu Köln about our project and ask if we can create an official Mastodon page for International Students. 
 - We created a shared Excel file with five columns (date, time, text, picture, picture description) where we document the details of each post within the different areas. We gather information from the official University of Cologne website, emails we receive, and other official websites that we identify as authentic sources.
+- We conducted a post-survey in order to understand if the project designed in Mastodon would help Erasmus students. 
 
 ## Peoblems
 1. The issue arose because the “Enter” key for inserting a new line in Excel was not functioning, causing problems in Autodone, which failed to process the blank spaces correctly, resulting in an absence of readable content.
