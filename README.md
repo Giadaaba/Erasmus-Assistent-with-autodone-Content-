@@ -17,6 +17,8 @@ The goal of the project is helping students to navigate the academic administrat
 - Mastodon Account
 - Autodone
 - Excel Calendar Integration
+- Canva 
+- Google Forms
 
 ## Expected Outcomes 
 - A comprehensive, automated notification system that helps Erasmus students stay on top of academic and housing deadlines.
